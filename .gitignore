@@ -11,3 +11,6 @@
 
 # data files from adventofcode.com
 /data
+
+# editor configs
+.vscode
