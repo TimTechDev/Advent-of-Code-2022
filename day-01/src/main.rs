@@ -29,16 +29,16 @@ fn count_top_tree_calories(list: &str) -> u32 {
 #[cfg(test)]
 mod day_01 {
     use super::*;
-
+    
+    const ELVE_EXAMPLE_LIST: &str = "1000\n2000\n3000\n\n4000\n\n5000\n6000\n\n7000\n8000\n9000\n\n10000";
+    
     #[test]
     fn top_calories() {
-        let list = "1000\n2000\n3000\n\n4000\n\n5000\n6000\n\n7000\n8000\n9000\n\n10000";
-        assert_eq!(24000, count_top_calories(list));
+        assert_eq!(24000, count_top_calories(ELVE_EXAMPLE_LIST));
     }
 
     #[test]
     fn top_tree_calories() {
-        let list = "1000\n2000\n3000\n\n4000\n\n5000\n6000\n\n7000\n8000\n9000\n\n10000";
-        assert_eq!(45000, count_top_tree_calories(list));
+        assert_eq!(45000, count_top_tree_calories(ELVE_EXAMPLE_LIST));
     }
 }
