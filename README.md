@@ -9,4 +9,5 @@
 
 ---
 
-1. [Day 01 – Calorie Counting](day-01/README.md)
+- [Day 01 – Calorie Counting](day-01/README.md)
+- [Day 02 – Rock Paper Scissors](day-02/README.md)
