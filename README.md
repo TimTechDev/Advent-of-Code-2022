@@ -11,4 +11,4 @@
 
 - [Day 01 – Calorie Counting](day-01/README.md)
 - [Day 02 – Rock Paper Scissors](day-02/README.md)
-- [Day 02 – Rock Paper Scissors](day-03/README.md)
+- [Day 03 – Rucksack Reorganization](day-03/README.md)
