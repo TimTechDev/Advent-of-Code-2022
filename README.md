@@ -13,3 +13,4 @@
 - [Day 02 – Rock Paper Scissors](day-02/README.md)
 - [Day 03 – Rucksack Reorganization](day-03/README.md)
 - [Day 04 – Camp Cleanup](day-04/README.md)
+- [Day 06 – Tuning Trouble](day-06/README.md)
