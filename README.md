@@ -15,3 +15,4 @@
 - [Day 04 – Camp Cleanup](day-04/README.md)
 - [Day 05 – Supply Stacks](day-05/README.md)
 - [Day 06 – Tuning Trouble](day-06/README.md)
+- [Day 07 – No Space Left On Device](day-07/README.md)
